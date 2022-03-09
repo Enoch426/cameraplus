@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+/* Begenning of top section */
+
+
+
+
+
+p{
+  margin-bottom: 0 !important;
+  font-family: 'Josefin Slab', serif;
+}
+
+
+.heading {
+  padding-left: 31em;
+}
+
+
+
+.background-image {
+  background: url(camerahd.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.heading2 {
+  text-align: center;
+  font-size: 50px;
+  padding-top: 3em;
+  font-family: 'Josefin Slab', serif;
+  color: white;
+}
+
+.underheading-2{
+ margin-top: -25px;
+ font-weight: lighter;
+}
+
+.underheading-3 {
+font-size: 30px;
+margin-top: -.3em;
+padding-bottom: .2em;
+}
+
+.smallwords {
+  font-size: 18px;
+  text-align: center;
+  padding-left: 18em;
+  padding-right: 19em;
+}
+
+.button {
+  background-color: #778BE5; /* grey-blue */
+  border: none;
+  color: white;
+  padding: 10px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+
+
+
+
+/* end of top section */
+
+
+
+
+
+
+
+
+
+/* beginning of middle section  */
+
+
+
+
+
+.background-c{
+  background-color: #778BE5;
+}
+.middle-section {
+  padding-top: 8em;
+}
+
+.middle-image1{
+  height: 23em;
+  width: 23em;
+  margin-top:  -2em;
+  margin-bottom: 5em;
+}
+
+
+
+.middle-heading{
+  font-size: 25px;
+  margin-top: 1.5em;
+
+}
+
+
+.mdhd {
+  font-size: 20px;
+  padding-bottom: -10px;
+}
+
+
+
+.inside-middleheading {
+  font-size: 50px;
+  margin-top:
+}
+
+.inside-middleheading2 {
+  margin-top: -24px;
+  font-size: 50px;
+}
+
+.smallwordstwo {
+  font-size: 16px;
+}
+
+.middle-image2{
+  height: 200px;
+  width: 200px;
+  margin-left: 14em;
+  margin-top: 10em;
+}
